@@ -1,1 +1,19 @@
+{
+        "id": 1,
+        "severity": "Major",
+        "environment": "Win 10 Chrome 107 108 109 110 111 112 113 114",
+        "title": "The English version of the page 'Privacy Policy' in 'Sign up' form is linked to the link 'Privacy Policy' from any language except EN, DE",
+        "steps":
+{
+"1": "Navigate to capital.com",
+"2": "Select any language exсept EN, DE",
+"3": "Click button 'Trade'",
+"4": "Click link 'Privacy policy'"
+}
+
+"ER": "The 'Privacy policy' page is opened in selected language",
+"AR": "The 'Privacy policy' page is opened in English",
+"attach": "Link",
+"comments": "Null"
+}
 
